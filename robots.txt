@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://compearid.github.io/sitemap.xml
+Sitemap: https://compearid.github.io/sitemap.xml
 Host: compearid.github.io
